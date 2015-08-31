@@ -39,7 +39,8 @@
         <div class="container">
             <div class="content">
                 <div class="title">art/soul</div>
-                <img src="images/ambrosio.jpg">
+                <img src="http://img.viva.ua/pictures/uploads/images/article-2431024-1838E3CD00000578-102_634x539(1).jpg">
+                <div class="title">v1</div>
             </div>
         </div>
     </body>
