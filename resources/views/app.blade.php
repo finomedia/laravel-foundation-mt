@@ -3,7 +3,7 @@
     <head>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>SuretoneTV</title>
+        <title>art/soul - a finomedia idea.</title>
         <link href="{{ asset('/css/foundation.css') }}" rel="stylesheet">
         <script src="{{ asset('/js/vendor/modernizr.js') }}"></script>
 
@@ -41,13 +41,7 @@
         </style>
     </head>
     <body>
-        <div class="container">
-            <div class="content">
-                <div class="title">art/soul</div>
-                <img src="http://img.viva.ua/pictures/uploads/images/article-2431024-1838E3CD00000578-102_634x539(1).jpg">
-                <div class="title">v1 - Updated Again</div>
-            </div>
-        </div>
+        @yield('content')
 
         <script src="{{ asset('/js/vendor/jquery.js') }}"></script>
         <script src="{{ asset('/js/foundation.min.js') }}"></script>
