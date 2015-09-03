@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SuretoneTV</title>
+        <link href="{{ asset('/css/style.css') }}" rel="stylesheet">
+        <script src="{{ asset('/js/vendor/modernizr.js') }}"></script>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="{{ asset('/css/style.css') }}">
@@ -44,5 +48,11 @@
                 <div class="title">v1 - Updated Again</div>
             </div>
         </div>
+
+        <script src="{{ asset('/js/vendor/jquery.js') }}"></script>
+        <script src="{{ asset('/js/foundation.min.js') }}"></script>
+        <script>
+            $(document).foundation();
+        </script>
     </body>
 </html>
