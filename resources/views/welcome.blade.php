@@ -4,7 +4,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>SuretoneTV</title>
-        <link href="{{ asset('/css/style.css') }}" rel="stylesheet">
+        <link href="{{ asset('/css/foundation.css') }}" rel="stylesheet">
         <script src="{{ asset('/js/vendor/modernizr.js') }}"></script>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
