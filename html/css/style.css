@@ -5,7 +5,12 @@ body {
     background-color: #efefef;
 }
 
+#page {
+    width: 100%;
+}
+
 .container {
     margin: 0 auto;
-    padding-bottom: 30%;
+    padding-top: 30%;
+    text-align: center;
 }
