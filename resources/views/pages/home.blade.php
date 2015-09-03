@@ -4,8 +4,10 @@
 
 <div id="page">
     <div class="container">
-        <div style="font-family: Helvetica, Arial, sans-serif; font-size: 3rem; font-weight: bold;">the/art/soul</div>
-        <div style="font-size: 1rem; font-family: Helvetica, Arial, sans-serif;">v1 - Updated Again</div>
+        <div class="h2">Laravel 5</div>
+        <div class="h3">Foundation CSS 5.5.2 / Project v.1</div>
+        <div class="h3">MediaTemple Grid Ready</div>
+        <div class="h3">.Welcome Home.</div>
     </div>
 </div>
 
