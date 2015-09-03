@@ -2,15 +2,20 @@
 @import url('foundation.css');
 
 body {
-    font-size: 62.5%;
-    background-image: url("http://www.kinfolk.com/wp-content/uploads/2014/02/Kinfolk_City-Guide-Freemans-Rest.-NY-46.jpg");
+    background-image: url("http://media.comicbook.com/uploads1/2014/11/catwoman-the-dark-knight-rises-movie-hd-wallpaper-1920x1200-4729-111808.jpg");
     background-size: cover;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 62.5%;
+    color: #444444;
 }
-
-#page {
-    width: 100%;
+.h2 {
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 3rem;
+    color: #555555;
 }
-
+.h3 { font-size: 1rem; }
+#page { width: 100%; }
 .container {
     margin: 0 auto;
     padding-top: 30%;
