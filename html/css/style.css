@@ -2,8 +2,9 @@
 @import url('foundation.css');
 
 body {
-    background-color: #efefef;
     font-size: 62.5%;
+    background-image: url("http://www.kinfolk.com/wp-content/uploads/2014/02/Kinfolk_City-Guide-Freemans-Rest.-NY-46.jpg");
+    background-size: cover;
 }
 
 #page {
